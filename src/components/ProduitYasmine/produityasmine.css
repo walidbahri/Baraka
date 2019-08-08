@@ -1,0 +1,19 @@
+.filleul-content-produit p{
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 15px;
+    
+  }
+
+  .filleul-content-produit {
+    
+    background: #ff8e32;
+    padding: 50px 100px;
+  }
+
+  .filleul-section-produit{
+    background: #ff8e32;
+
+  }
